@@ -10,7 +10,7 @@ body {
     width: 97%;
     height: 100px;
     background-color: white;
-    background-image:url(img/pastel-beach-long.jpg);
+    background-image:url("../img/pastel-beach-long.jpg");
     Background-size:cover;
     border: none;
     border-color: black;
