@@ -2,7 +2,7 @@
 font-family: 'Charm', cursive;*/
 body {
     background-color: rgba(248, 244, 244, 0.945);
-    background-image:url('../img/pastel-beach.jpg');
+    background-image:url("../img/pastel-beach.jpg");
     background-size:cover;
     border: 3px none;
 }
